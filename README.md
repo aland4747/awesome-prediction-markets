@@ -6,6 +6,8 @@ Prediction markets are the best real-time source of calibrated probability for w
 
 Pull requests welcome. See [contributing guidelines](#contributing).
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/spfunctions/awesome-prediction-markets/blob/main/simplefunctions_quickstart.ipynb) — Interactive notebook: world state, market search, trade ideas, contagion detection, and more.
+
 ## Quick Start — Get a Price in 30 Seconds
 
 ```bash
