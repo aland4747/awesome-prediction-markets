@@ -165,6 +165,7 @@ Building AI agents that reason over prediction market data.
 - [Manifold Markets Data](https://docs.manifold.markets/api#get-v0markets) — Full market history including bets.
 - [Good Judgment Open](https://www.gjopen.com/) — Crowd forecasting data with track records.
 - [Metaculus Data Export](https://www.metaculus.com/questions/download/) — Historical question and resolution data.
+- [DepthFeed Prediction Market Liquidity Benchmark](https://depthfeed.com/arena/liquidity) — Reproducible 34,560-observation liquidity dataset for Polymarket, Kalshi, Predict.fun via Binance Wallet, and Limitless with [public data and methodology](https://github.com/vcorp-dev/prediction-market-liquidity-benchmark).
 
 ## Aggregators & Cross-Venue
 
