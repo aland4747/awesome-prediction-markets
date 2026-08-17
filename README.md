@@ -237,6 +237,7 @@ The context layer for prediction markets — the economic indicators, government
 
 ## Analytics & Research Tools
 
+- [EdgeMarket](https://edgemarket.co) — Polymarket and crypto-perp analytics: public Oracle register (confirmed 5-min calls, misses included), operators ranked by measured alpha, funding/OI/liquidations across four venues. Free observer tier.
 - [Polymarket Analytics](https://www.loki.red/polymarket/) — Market stats and analytics.
 - [PolymarketStats](https://github.com/bodino/PolymarketStats) — Open source Polymarket analytics.
 - [Kalshi Research](https://kalshi.com/research) — Market insights and analysis from Kalshi.
