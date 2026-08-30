@@ -157,6 +157,9 @@ Building AI agents that reason over prediction market data.
 - [Polymarket CLOB Data](https://docs.polymarket.com/#get-markets) — Markets, orderbook, trades.
 - [Metaculus API](https://www.metaculus.com/api/) — Questions, forecasts, community predictions.
 - [MetaForecast](https://metaforecast.org/) — Aggregated forecasts across platforms.
+- [Xquik](https://docs.xquik.com/api-reference/overview) ([OpenAPI](https://xquik.com/openapi.json)) - X/Twitter data API for search, trends, monitors & signed webhooks. Use social signals as event context, not forecasts; API key required.
+
+  Xquik is an independent third-party service. Not affiliated with X Corp. "Twitter" and "X" are trademarks of X Corp.
 
 ### Historical Datasets
 
