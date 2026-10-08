@@ -94,6 +94,7 @@ Active prediction market platforms with programmatic access.
 - [py-clob-client](https://github.com/Polymarket/py-clob-client) — Official Python client for the CLOB.
 - [clob-client](https://github.com/Polymarket/clob-client) — Official TypeScript client.
 - [polymarket-rs](https://github.com/Polymarket/polymarket-rs) — Rust SDK.
+- [@dimes-dot-fi/sdk](https://github.com/dimes-fi/dimes-sdk) — TypeScript client for opening leveraged (2–10x) Polymarket positions. Typed quote engine, React hooks, viem transaction builders. Requires a partner API key; sandbox mode for local dev.
 
 ### Metaculus
 
