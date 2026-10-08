@@ -119,6 +119,7 @@ Connect LLMs to prediction market data via the Model Context Protocol.
 - [fred-mcp-server](https://github.com/kablewy/fred-mcp-server) — FRED economic data for Claude/Cursor.
 - [mcp-fredapi](https://github.com/Jaldekoa/mcp-fredapi) — FRED API with series search and category browsing.
 - [imf-data-mcp](https://github.com/c-cf/imf-data-mcp) — IMF economic data via SDMX 3.0 API.
+- [HostDeFi](https://hostdefi.com/api/v1/mcp) — Hosted MCP (streamable HTTP, no key): tracked Polymarket markets plus 24h odds history as x402-priced calls ($0.005–0.02, USDC), alongside token-risk tools.
 
 ## CLI Tools
 
