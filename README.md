@@ -115,6 +115,7 @@ Connect LLMs to prediction market data via the Model Context Protocol.
   claude mcp add simplefunctions --url https://simplefunctions.dev/api/mcp/mcp
   ```
 - [prediction-market-mcp-example](https://github.com/spfunctions/prediction-market-mcp-example) — Minimal 50-line MCP server for learning. Search markets, get context, price changes.
+- [0xinsider MCP](https://docs.0xinsider.com/integrations/mcp) — Read-only remote MCP server for Polymarket sports and esports data: wallet grades on settled P&L, large trades, positions, markets and research. 33 tools, OAuth or API key.
 - [us-gov-open-data-mcp](https://github.com/lzinga/us-gov-open-data-mcp) — 300+ tools across 40+ U.S. government APIs. FRED, Treasury, BLS, Congress, FDA, EPA, SEC. Selective module loading.
 - [fred-mcp-server](https://github.com/kablewy/fred-mcp-server) — FRED economic data for Claude/Cursor.
 - [mcp-fredapi](https://github.com/Jaldekoa/mcp-fredapi) — FRED API with series search and category browsing.
