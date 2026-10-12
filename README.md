@@ -78,6 +78,7 @@ Active prediction market platforms with programmatic access.
 
 ### Multi-Venue
 
+- [Dino Markets](https://dino.markets/docs) — One feed for markets that exist on both Kalshi and Polymarket, with arb signals sized to what you can actually fill. REST + WebSocket + MCP.
 - [SimpleFunctions API](https://simplefunctions.dev/docs) — Unified REST API for Kalshi + Polymarket. Thesis management, edge detection, what-if scenarios, track record feedback. Free during beta.
 - [SimpleFunctions CLI](https://github.com/spfunctions/simplefunctions-cli) — 42 terminal commands for prediction market intelligence. Scan, watch, trade, agent mode.
 
