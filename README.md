@@ -184,6 +184,7 @@ The context layer for prediction markets — the economic indicators, government
 - [pandas-datareader](https://github.com/pydata/pandas-datareader) — Extract data from FRED, World Bank, OECD, Eurostat, Stooq, and more into pandas DataFrames. The standard Python library for economic data access.
 - [DBnomics](https://db.nomics.world/) — Aggregates 80+ statistical providers (central banks, national statistics offices, international organizations). [R client](https://github.com/dbnomics/rdbnomics), [Julia client](https://github.com/s915/DBnomics.jl), [Stata client](https://github.com/dbnomics-stata/dbnomics). Free API, no auth.
 - [findatapy](https://github.com/cuemacro/findatapy) — Download market data from Bloomberg, Eikon, Quandl, FRED and more via a unified interface.
+- [Invokely](https://invokely.ai/docs) - Hosted MCP for source-cited official economic statistics across countries and regions. The Free plan includes 500 MCP calls/month; REST data queries require Builder, Pro or prepaid credits ([pricing](https://invokely.ai/pricing)).
 
 ### FRED (Federal Reserve Economic Data)
 
