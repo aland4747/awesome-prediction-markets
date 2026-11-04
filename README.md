@@ -165,6 +165,7 @@ Building AI agents that reason over prediction market data.
 - [Manifold Markets Data](https://docs.manifold.markets/api#get-v0markets) — Full market history including bets.
 - [Good Judgment Open](https://www.gjopen.com/) — Crowd forecasting data with track records.
 - [Metaculus Data Export](https://www.metaculus.com/questions/download/) — Historical question and resolution data.
+- [Kalshi BTC 15-minute win rate by price](https://spectralbot.cotes.ai/learn/how-often-do-90-cent-contracts-win/) — Free CSV of how often YES won by 5¢ price bucket and time left, across 9,312 settled KXBTC15M markets.
 
 ## Aggregators & Cross-Venue
 
