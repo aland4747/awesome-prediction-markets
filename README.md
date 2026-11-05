@@ -241,6 +241,7 @@ The context layer for prediction markets — the economic indicators, government
 - [Polymarket Analytics](https://www.loki.red/polymarket/) — Market stats and analytics.
 - [PolymarketStats](https://github.com/bodino/PolymarketStats) — Open source Polymarket analytics.
 - [Kalshi Research](https://kalshi.com/research) — Market insights and analysis from Kalshi.
+- [Kalshi BTC 15-minute TradingView indicators](https://gitlab.com/cotes-ai-public/companion-indicators) — Free, open-source Pine Script indicators for Kalshi's BTC 15-minute markets (KXBTC15M): window shading, each window's approximated strike with a countdown and result colors, and BTC's distance from the strike.
 
 ## Tutorials & Guides
 
