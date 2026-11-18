@@ -165,6 +165,7 @@ Building AI agents that reason over prediction market data.
 - [Manifold Markets Data](https://docs.manifold.markets/api#get-v0markets) — Full market history including bets.
 - [Good Judgment Open](https://www.gjopen.com/) — Crowd forecasting data with track records.
 - [Metaculus Data Export](https://www.metaculus.com/questions/download/) — Historical question and resolution data.
+- [NeuPortal Forecast Ledger](https://doi.org/10.5281/zenodo.24051884) — 7,400+ AI forecasts on Polymarket questions with the market price at each call, Bitcoin-timestamped via OpenTimestamps and Brier-scored on resolution. CC BY 4.0. [Proof files](https://github.com/neuportalai-ui/experiment-proofs).
 
 ## Aggregators & Cross-Venue
 
