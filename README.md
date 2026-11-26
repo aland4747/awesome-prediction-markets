@@ -180,6 +180,7 @@ The context layer for prediction markets — the economic indicators, government
 
 ### Aggregator Platforms
 
+- [MacroDial MCP](https://macrodial.org/ai-resources) — Hosted read-only MCP for public U.S. macroeconomic context.
 - [OpenBB](https://github.com/OpenBB-finance/OpenBB) — Open-source financial data platform (65K+ stars). Covers FRED, World Bank, BLS, Eurostat, and hundreds of other data sources. Python, CLI, and AI agent integration.
 - [pandas-datareader](https://github.com/pydata/pandas-datareader) — Extract data from FRED, World Bank, OECD, Eurostat, Stooq, and more into pandas DataFrames. The standard Python library for economic data access.
 - [DBnomics](https://db.nomics.world/) — Aggregates 80+ statistical providers (central banks, national statistics offices, international organizations). [R client](https://github.com/dbnomics/rdbnomics), [Julia client](https://github.com/s915/DBnomics.jl), [Stata client](https://github.com/dbnomics-stata/dbnomics). Free API, no auth.
