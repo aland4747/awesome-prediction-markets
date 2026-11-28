@@ -173,6 +173,7 @@ Building AI agents that reason over prediction market data.
 - [Oddpool](https://oddpool.com) — Cross-venue odds, spreads, liquidity, arbitrage detection.
 - [BaseRateTimes](https://baseratetimes.com) — News through the lens of prediction markets.
 - [Electionbettingodds.com](https://electionbettingodds.com) — Aggregated political prediction market odds.
+- [EventTracker](https://eventtracker.ai) - Aggregated prediction market data, arbitrage opportunities, wallet following, and market analysis from over 30 venues.
 
 ## Economic & Macro Data
 
